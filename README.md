@@ -14,3 +14,5 @@ Goal: Job switch (urgent)
 - HTML
 - CSS
 - Basics of JavaScript
+
+- Day 7: Text Formatting tags & Form Validation Attributes
