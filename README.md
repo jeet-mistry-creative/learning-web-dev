@@ -16,4 +16,6 @@ Goal: Job switch (urgent)
 - Basics of JavaScript
 
 ##
+- Day 1-3: HTML Basics
+- Day 4-6: HTML Forms
 - Day 7: Text Formatting tags & Form Validation Attributes
