@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Day 6 Advance Form</title>
+    </head>
+    <body>
+        
+        <h1>Day 6 Advance Form</h1>
+
+        <form action="#" method="post">
+
+            <label for="name">Name:</label>
+            <input type="text" name="username" id="name" placeholder="Enter Username" required><br><br>
+            <label for="email">Email:</label>
+            <input type="email" name="email" id="email" placeholder="Enter Email" required><br><br>
+            <label for="gender">Gender:</label><br>            
+            <input type="radio" name="gender" id="male">
+            <label for="male">Male</label>
+            <input type="radio" name="gender" id="female">
+            <label for="Female">Female</label>
+             <br><br>
+
+            <label for="Skills">Skills:</label><br>
+            <label for="Drawing">Drawing</label>
+            <input type="checkbox" name="Skills" id="drawing">
+            <label for="read-book">Read Book</label>
+            <input type="checkbox" name="Skills" id="read-book">
+            <label for="journy">Journy</label>
+            <input type="checkbox" name="Skills" id="journy">
+            <label for="singing">Singing</label>
+            <input type="checkbox" name="Skills" id="singing">
+            <label for="other">Other</label>
+            <input type="checkbox" name="Skills" id="other"> <br><br>
+
+            <label for="Country">Country:</label>
+            <select name="country" id="country" required>
+                <option value="" disabled selected>Select</option>
+                <option value="India">India</option>
+                <option value="USA">USA</option>
+                <option value="Canada">Canada</option>
+                <option value="Germany">Germany</option>
+                <option value="Africa">Africa</option>
+                <option value="Europe">Europe</option>
+            </select> <br><br>
+
+            <label for="message">Message: </label>
+            <textarea name="message" id="message" placeholder="Enter your message..." required></textarea><br><br>
+
+            <button type="submit">Submit</button>
+
+        </form>
+    </body>
+</html>
