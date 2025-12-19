@@ -30,9 +30,29 @@
         <!-- <sub> -->
             <p>This is a <sub>lowerside of text like log value find...</sub> of equation...</p> <br><br>
 
-        <h2>Types of Form validation tags Example... </h2>
+            <h2>Form Validation Example</h2>
 
-        <!-- <required> -->
+            <form>
+                <!-- minlength + maxlength -->
+                <label>Username:</label><br>
+                <input type="text" minlength="5" maxlength="10" placeholder="Enter username" required><br><br>
+            
+                <!-- min + max -->
+                <label>Age:</label><br>
+                <input type="number" min="18" max="60" required><br><br>
+            
+                <!-- readonly -->
+                <label>Country:</label><br>
+                <input type="text" value="India" readonly><br><br>
+
+                <!-- pattern -->
+                <label>Username (Pattern):</label><br>
+                <input type="text" pattern="[A-Za-z0-9]{5,10}" placeholder="5-10 letters/numbers" required><br><br>
+
+
+            
+                <button type="submit">Submit</button>
+            </form>
             
 
 
