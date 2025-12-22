@@ -1,0 +1,25 @@
+.box{
+    background-color: lightblue;
+    border: 2px solid blue;
+    margin: 10px;
+    padding: 10px;
+}
+
+.block{
+    display: block;
+}
+
+.inline{
+    display: inline;
+}
+
+.hidden{
+    display: none;
+}
+
+.inline-block{
+    display: inline-block;
+    background-color: chartreuse;
+    height: 100px;
+    width: 200px;
+}
