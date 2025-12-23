@@ -10,9 +10,10 @@
 ## 📚 Learning System
 
 - Daily tasks tracked in Excel / Google Sheet  
-- Practice → mistakes → fixes  
+- Practice → confusion → fixes → clarity  
 - Focus on **consistency**, not perfection  
 - Every day code pushed to GitHub  
+- Real learning through **trial & error**
 
 ---
 
@@ -37,32 +38,48 @@
 - **Day 12:** Table Practice (colspan & rowspan)
 
 ### ✅ CSS Journey
-- **Day 13:** CSS Basics (padding, margin, font, colors)
-- **Day 14:** CSS Display Property (block, inline, inline-block, none)
+- **Day 13:** CSS Basics  
+  - padding, margin, font-size, colors
+- **Day 14:** CSS Display Property  
+  - block, inline, inline-block, none
 - **Day 15:** Profile Card Design Practice  
-  - Margin & padding  
-  - Centering elements  
-  - Dark theme color combination  
+  - margin & padding  
+  - centering elements  
+  - dark theme color combination  
+
+- **Day 16 – Part 1:** CSS Flexbox Fundamentals  
+  - display: flex  
+  - justify-content  
+  - align-items  
+  - center using multiple approaches  
+
+- **Day 16 – Part 2:** Flexbox Row & Column Practice  
+  - flex-direction: row / column  
+  - container setup  
+  - margin: auto vs margin values  
+  - real-world confusion handling & fixing  
 
 ---
 
 ## 🧩 Projects So Far
 
-- HTML Pages
-- Forms & Validation
-- Tables & Layouts
-- CSS Profile Card UI
+- HTML Practice Pages  
+- Forms & Validation  
+- Tables & Layouts  
+- CSS Profile Card UI  
+- Flexbox Row & Column Layout Practice  
 
 ---
 
-## 💡 Notes
+## 💡 Learning Notes
 
-> Learning daily even with office work.  
-> Building strong fundamentals step by step.
+> Confusion is part of learning.  
+> Every bug fixed = one step closer to confidence.  
+> Practicing daily even with office work.
 
 ---
 
 ## 📌 Status
 
-✔️ **Day 15 Completed Successfully**  
-🚀 **Next: Day 16 – CSS Flexbox**
+✔️ **Day 16 Completed Successfully**  
+🚀 **Next: Day 17 – Advanced Flexbox Practice & Layout Tasks**
