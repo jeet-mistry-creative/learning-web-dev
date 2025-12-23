@@ -1,0 +1,62 @@
+*{
+    background-color: black;
+}
+h1{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: whitesmoke;
+}
+
+.card-container{
+    padding: 20px;
+    margin: 20px auto;
+    background-color: rgba(255, 255, 255, 0);
+    border-radius: 20px;
+    border: 5px solid grey;
+    width: 500px
+}
+
+img{
+    border-radius: 15px;
+    height: 120px;
+    width: auto;
+}
+
+h2{
+    font-size: 25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    color: whitesmoke;
+}
+
+p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    font-weight: 600;
+    color: whitesmoke;
+}
+
+.card-button{
+    background-color: rgba(255, 255, 255, 0);
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+button{
+    border: 0;
+    padding: 8px 16px;
+    width: auto;
+    font-size: 12px;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.follow{
+    color: rgb(0, 255, 255);
+}
+
+.message{
+    color: rgb(29, 255, 29);
+}
