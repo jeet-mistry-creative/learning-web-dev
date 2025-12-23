@@ -1,0 +1,44 @@
+body{
+    background-color: #121212;
+    color: white;
+    font-family: arial;
+}
+
+/*Page Center*/
+.page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/*Card*/
+.card{
+    width: 350px;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #1f1f1f;
+    border: 2px solid gray;
+    text-align: center;
+}
+
+/*Image*/
+.card img{
+    width: 120px;
+    border-radius: 50%;
+}
+
+/*button container*/
+.buttons{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+/*button*/
+button{
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+}
