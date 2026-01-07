@@ -5,6 +5,7 @@ const navItems = document.querySelectorAll(".nav-links a");
 menuToggle.addEventListener("click", () => {
     navLinks.classList.toggle("active");
     menuToggle.classList.toggle("active");
+    navbar.classList.toggle("menu-open");
 });
 
 navItems.forEach(item => {
