@@ -74,6 +74,10 @@ body.menu-open{
     font-size: 16px;
 }
 
+.navbar.menu-open .logo{
+    display: none;
+}
+
 /*button*/
 .nav-btn{
     padding: 10px 20px;
@@ -119,7 +123,8 @@ body.menu-open{
 
     .nav-links{
         position: fixed;
-        top: 70px;
+        top: 0;
+        right: -100%;
         left: 0;
         width: 100%;
         height: calc(100vh - 70px);
